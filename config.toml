@@ -1,5 +1,5 @@
 baseURL = "https://xyslion.github.io/blog/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "xyslion的笔记屋"
 theme = "ananke"
 publishDir = "docs"

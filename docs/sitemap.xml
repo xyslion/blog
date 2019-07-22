@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://xyslion.github.io/blog/posts/first-post/</loc>
-    <lastmod>2019-07-17T11:17:14+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xyslion.github.io/blog/</loc>
-    <lastmod>2019-07-17T11:17:14+08:00</lastmod>
+    <loc>https://xyslion.github.io/blog/mac/</loc>
+    <lastmod>2019-07-22T10:14:43+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://xyslion.github.io/blog/posts/</loc>
-    <lastmod>2019-07-17T11:17:14+08:00</lastmod>
+    <loc>https://xyslion.github.io/blog/mac/rootless/</loc>
+    <lastmod>2019-07-22T10:14:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xyslion.github.io/blog/</loc>
+    <lastmod>2019-07-22T10:14:43+08:00</lastmod>
     <priority>0</priority>
   </url>
   
