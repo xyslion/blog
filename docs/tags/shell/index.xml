@@ -13,10 +13,10 @@
     
     <item>
       <title>Bash_upgrade</title>
-      <link>https://xyslion.github.io/blog/mac/bash_upgrade/</link>
+      <link>https://xyslion.github.io/blog/post/bash_upgrade/</link>
       <pubDate>Mon, 22 Jul 2019 13:50:34 +0800</pubDate>
       
-      <guid>https://xyslion.github.io/blog/mac/bash_upgrade/</guid>
+      <guid>https://xyslion.github.io/blog/post/bash_upgrade/</guid>
       <description>Mac升级bash到最新版本 先检查当前bash版本信息 $ /bin/bash --version GNU bash, version 3.2.57(1)-release (x86_64-apple-darwin18) Copyright (C) 2007 Free Software Foundation, Inc. 使用brew安装最新的bash 如果没有安装brew的: $</description>
     </item>
     
