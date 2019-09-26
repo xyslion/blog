@@ -6,10 +6,19 @@
     <description>Recent content in Posts on xyslion的笔记屋</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 02 Aug 2019 10:44:46 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2019 10:36:49 +0800</lastBuildDate>
     
 	<atom:link href="https://xyslion.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>设置个性化的终端命令提示符(PS1 prompt)</title>
+      <link>https://xyslion.github.io/blog/post/bash_ps1/</link>
+      <pubDate>Thu, 08 Aug 2019 10:36:49 +0800</pubDate>
+      
+      <guid>https://xyslion.github.io/blog/post/bash_ps1/</guid>
+      <description>设置个性化的终端命令提示符(PS1 prompt) 如果想改变终端命令行提示符(PS1 prompt), 是通过修改当前用户的~/.bashrc文件里的PS1变量来实现的 把P</description>
+    </item>
     
     <item>
       <title>Spring中的SmartLifecycle作用</title>
