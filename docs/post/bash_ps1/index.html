@@ -40,7 +40,7 @@
 
 <meta itemprop="datePublished" content="2019-08-08T10:36:49&#43;08:00" />
 <meta itemprop="dateModified" content="2019-08-08T10:36:49&#43;08:00" />
-<meta itemprop="wordCount" content="481">
+<meta itemprop="wordCount" content="426">
 
 
 
@@ -155,25 +155,66 @@ $ _
 
 <p>以下是<code>bash</code>里的可用的转义字符以及代表的含义:</p>
 
-<p>|  \u | 当前用户
-|&mdash;——|&mdash;&mdash;&mdash;
-|  \w | 当前工作目录
-|&mdash;&ndash;|&mdash;&mdash;&mdash;&mdash;-
-|  \W | 当前工作目录的最后一段. 例如, 如果当前在<code>/usr/local/bin</code>, 将显示为<code>bin</code>
-|&mdash;&ndash;|&mdash;&mdash;&mdash;&mdash;&mdash;
-|  \h | 计算机的名称, 截止到(<code>·</code>).例如, 如果名称为<code>ubuntu.pc</code>, 将显示为<code>ubuntu</code>
-|&mdash;&ndash;|&mdash;&mdash;&mdash;&mdash;&ndash;
-|  \H | 完整计算机的名称
-|&mdash;&ndash;|&mdash;&mdash;&mdash;&mdash;&ndash;
-|  \d | &ldquo;星期 月份 日前&rdquo;格式化的日期, (例如, Tue 21 July)
-|&mdash;&ndash;|&mdash;&mdash;&mdash;&mdash;-
-|  \t | 24小时制的当前时间
-|&mdash;&ndash;|&mdash;&mdash;&mdash;&mdash;
-|  \T | 12小时制的当前时间
-|&mdash;&ndash;|&mdash;&mdash;&mdash;&mdash;
-|  \@ | 12小时制 AM/PM 显示的当前时间
-|&mdash;&ndash;|&mdash;&mdash;&mdash;&ndash;
-|  \n | 下一行</p>
+<table>
+<thead>
+<tr>
+<th align="center">参数名</th>
+<th align="left">说明</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="center">\u</td>
+<td align="left">当前用户</td>
+</tr>
+
+<tr>
+<td align="center">\w</td>
+<td align="left">当前工作目录</td>
+</tr>
+
+<tr>
+<td align="center">\W</td>
+<td align="left">当前工作目录的最后一段. 例如, 如果当前在<code>/usr/local/bin</code>, 将显示为<code>bin</code></td>
+</tr>
+
+<tr>
+<td align="center">\h</td>
+<td align="left">计算机的名称, 截止到(<code>·</code>).例如, 如果名称为<code>ubuntu.pc</code>, 将显示为<code>ubuntu</code></td>
+</tr>
+
+<tr>
+<td align="center">\H</td>
+<td align="left">完整计算机的名称</td>
+</tr>
+
+<tr>
+<td align="center">\d</td>
+<td align="left">&ldquo;星期 月份 日前&rdquo;格式化的日期, (例如, Tue 21 July)</td>
+</tr>
+
+<tr>
+<td align="center">\t</td>
+<td align="left">24小时制的当前时间</td>
+</tr>
+
+<tr>
+<td align="center">\T</td>
+<td align="left">12小时制的当前时间</td>
+</tr>
+
+<tr>
+<td align="center">\@</td>
+<td align="left">12小时制 AM/PM 显示的当前时间</td>
+</tr>
+
+<tr>
+<td align="center">\n</td>
+<td align="left">下一行</td>
+</tr>
+</tbody>
+</table>
 
 <p>参考资料: <a href="https://www.booleanworld.com/customizing-coloring-bash-prompt/">https://www.booleanworld.com/customizing-coloring-bash-prompt/</a></p>
 <ul class="pa0">
