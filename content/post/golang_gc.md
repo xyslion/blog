@@ -1,7 +1,7 @@
 ---
 title: "golang的gc算法理解"
 date: 2019-10-08T15:57:56+08:00
-category: "golang"
+categories: ["golang"]
 tags: ["golang", "gc"]
 ---
 

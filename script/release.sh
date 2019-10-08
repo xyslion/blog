@@ -9,9 +9,11 @@ hugo
 
 if [[ -n "$1" ]]; then
     cd public
+    git remote add origin "git@github.com:xyslion/xyslion.github.io.git"
     git add -A
     git commit -m "$1"
-    git push
+    git pull origin master
+    git push -u origin master
 else
     echo
     echo "[WARN] Files will NOT be uploaded to Github without adding comments."

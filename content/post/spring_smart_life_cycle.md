@@ -1,7 +1,7 @@
 ---
 title: "Spring中的SmartLifecycle作用"
 date: 2019-08-02T10:44:46+08:00
-catagory: "java"
+categories: ["java"]
 tags: ["java", "spring"]
 ---
 

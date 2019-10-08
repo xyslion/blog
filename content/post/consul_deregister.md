@@ -1,7 +1,7 @@
 ---
-title: "Consul_Deregister"
+title: "consul服务下线的巨坑"
 date: 2019-07-27T21:03:26+08:00
-catagory: "registry"
+catagories: ["registry"]
 tags: ["consul"]
 ---
 

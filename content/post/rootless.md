@@ -1,7 +1,7 @@
 ---
-title: "Rootless"
+title: "Mac OS的Rootless机制"
 date: 2019-07-22T10:14:43+08:00
-category: "mac"
+categories: ["mac"]
 tags: ["mac"]
 ---
 

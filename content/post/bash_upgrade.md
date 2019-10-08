@@ -1,7 +1,7 @@
 ---
-title: "Bash_upgrade"
+title: "Mac升级bash到最新版本"
 date: 2019-07-22T13:50:34+08:00
-category: "mac"
+categories: ["mac"]
 tags: ["mac", "bash", "shell"]
 ---
 

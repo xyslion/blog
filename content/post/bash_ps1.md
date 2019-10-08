@@ -1,7 +1,7 @@
 ---
 title: "设置个性化的终端命令提示符(PS1 prompt)"
 date: 2019-08-08T10:36:49+08:00
-category: "mac"
+categories: ["mac"]
 tags: ["mac", "bash", "shell"]
 ---
 
