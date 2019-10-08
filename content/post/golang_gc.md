@@ -40,7 +40,7 @@ Golang是如何解决这个问题的呢？
 4. 重复3，直到灰色对象队列为空。此时白色对象即为垃圾，进行回收。
 
 如下图所示：  
-![golang_gc](/media/golang-gc.gif)
+![golang_gc](https://github.com/xyslion/blog/raw/master/static/media/golang-gc.gif)
 
 三色标记算法大体的流程就是这样的，让我们回到刚才的问题：Golang是如何解决标记-清除(mark and sweep)算法中的卡顿(stw, stop the world)问题的呢？
 
