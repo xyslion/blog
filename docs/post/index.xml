@@ -6,10 +6,19 @@
     <description>Recent content in Posts on xyslion的笔记屋</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 08 Aug 2019 10:36:49 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2019 15:57:56 +0800</lastBuildDate>
     
 	<atom:link href="https://xyslion.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>golang的gc算法理解</title>
+      <link>https://xyslion.github.io/blog/post/golang_gc/</link>
+      <pubDate>Tue, 08 Oct 2019 15:57:56 +0800</pubDate>
+      
+      <guid>https://xyslion.github.io/blog/post/golang_gc/</guid>
+      <description>golang的gc算法理解 经典的gc算法有： 引用计数(reference counting), 标记-清除(mark-sweep), 复制收集(copy and collection). Gola</description>
+    </item>
     
     <item>
       <title>设置个性化的终端命令提示符(PS1 prompt)</title>
