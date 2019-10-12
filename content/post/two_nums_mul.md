@@ -6,7 +6,7 @@ tags: ["algorithm"]
 categories: ["algorithm"]
 ---
 
-题目：
+## 题目
 
 给定两个以字符串形式表示的非负整数 num1 和 num2，返回 num1 和 num2 的乘积，它们的乘积也表示为字符串形式。  
 示例 1:  
@@ -19,7 +19,12 @@ categories: ["algorithm"]
     * num1 和 num2 均不以零开头，除非是数字 0 本身。  
     * 不能使用任何标准库的大数类型（比如 BigInteger）或直接将输入转换为整数来处理。  
 
-解决方法：  
+## 解题思路
+
+模拟竖式乘法， 如下图  
+![](https://github.com/xyslion/blog/raw/master/static/media/two_number_mul.png)
+
+代码实现：    
 ```go
 package mul
 
